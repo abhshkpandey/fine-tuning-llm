@@ -16,7 +16,6 @@ This repository contains a Jupyter notebook (`llama_2_fine_tuning.ipynb`) to gui
     * `datasets`
     * `qlora`
     * `numpy`
-    * (Optional for GPU acceleration) `torch`
     
 These can be installed using `pip`:
 
